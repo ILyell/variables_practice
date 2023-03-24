@@ -18,3 +18,13 @@ is_present = true
 moving = false
 has_cat = true
 git_commited = true
+# Change of string variables
+email = "hellowworld@yahoo.com"
+program = "Frontend mod 0"
+name = "John Smith"
+date_of_birth = "11/11/2011"
+# puts command to print variables
+puts "You are currently at #{altitude} feet and moving at #{speed_mph}mph"
+puts "The image is #{image_height} by #{image_width}"
+puts "#{name} is #{age} years old"
+puts "It is #{tempature_f} degrees outside"
